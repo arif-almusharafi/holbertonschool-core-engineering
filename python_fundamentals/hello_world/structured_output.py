@@ -11,4 +11,3 @@ print(f"Pi approx: { Pi_approx:.2f}")
 
 Computation_valid = 5 < 10
 print(f"Computation valid: { Computation_valid}")
-
