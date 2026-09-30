@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
+"""Defines a square."""
 
 
-"""My First Class"""
 class Square:
     """My First Class"""
-    pass
