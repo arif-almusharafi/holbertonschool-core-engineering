@@ -2,4 +2,4 @@
 
 def raise_exception_msg(message=""):
 
-    raise NameError(f"NameError: {message}")
+    raise NameError(message)
